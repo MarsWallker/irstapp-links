@@ -4,7 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.example.firstapp",
     "sha256_cert_fingerprints": [
-      "79:63:72:99:8F:02:0C:84:74:B7:B9:7A:4A:7F:8A:EC:70:09:18:6E:5C:FF:5E:0D:A3:96:DA:CF:C5:AD:F9:5D"  // your real fingerprint here
+      "79:63:72:99:8F:02:0C:84:74:B7:B9:7A:4A:7F:8A:EC:70:09:18:6E:5C:FF:5E:0D:A3:96:DA:CF:C5:AD:F9:5D"
     ]
   }
 }]
